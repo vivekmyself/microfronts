@@ -6,7 +6,7 @@ on:
     paths:
       - "application/container/**"
 
-default:
+defaults:
   run:
     working-directory: application/container
 
